@@ -1,0 +1,81 @@
+ul {
+    display: flex;
+    justify-content: center;
+  }
+  ul li {
+    list-style: none;
+    margin: 13px
+  }
+  ul li a {
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #fff;
+    text-decoration: none;
+    letter-spacing: 1px;
+  }
+  
+.container
+{
+    background :url('Coronavirus-1.jpg');
+    height:100vh;
+
+
+}
+*
+{
+    margin:0px;
+    padding:0px;
+}
+.container h1{
+  color:#fff;
+  font-size:325%;
+  text-align: center;
+  transform: translateY(40vh);
+}
+
+#coronavirus{
+	color: white;
+	padding: 100px 150px 150px 100px;
+	position: center;
+	background: linear-gradient(to bottom, #16222a, #4e4376);
+}
+
+#coronavirus h1
+{
+  font-size: 325%;
+  text-align: center;
+}
+p
+{
+  font-weight: 400%;
+  font-family: serif;
+  font-size: 150%;
+  text-align: center;
+  padding-left: 20%;
+  padding-right: 20%;
+}
+
+#Covid-19{
+	color: white;
+	padding: 100px 150px 150px 100px;
+	position: center;
+	  background: linear-gradient(to bottom, #0f2027, #203a43, #2c5364);
+}
+#Covid-19 h1{
+  font-size: 325%;
+  text-align: center;
+
+}
+
+#prevention{
+  background: url('coronavirus-2.jpeg');
+  height:100vh;
+  color: white;
+	padding: 100px 150px 150px 100px;
+	position: center;
+	}
+
+#prevention h1{
+  text-align: center;
+  font-size: 325%;
+}
